@@ -11,9 +11,9 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./SQL-Solutions/1-Combine-Two-Tables.sql) |
-| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](./SQL-Solutions/2-Second-Highest-Salary.sql) |
-| 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](./SQL-Solutions/3-Nth-Highest-Salary.sql) |
+| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |
+| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 
+| 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) |
 | ... | ... | ... |
 
 ---
@@ -31,5 +31,7 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
    git clone https://github.com/your-username/LeetCode-SQL-50.git
 
  Navigate to the SQL folder:
+ 
 2. cd LeetCode-SQL-50/SQL-Solutions
+   
 3. Run queries in MySQL / PostgreSQL.
