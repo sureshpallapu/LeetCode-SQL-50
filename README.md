@@ -9,12 +9,12 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
 
 ## 📂 Problem List & Solutions
 
-| # | Problem | Solution |
-|---|---------|----------|
+| # | Problem |
+|---|---------|
 | 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |
 | 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 
 | 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) |
-| ... | ... | ... |
+| ... | ... |
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
 
 ## 📌 How to Use
 1. Clone the repository:
-   git clone https://github.com/your-username/LeetCode-SQL-50.git
+   git clone https://github.com/sureshpallapu/LeetCode-SQL-50.git
 
  Navigate to the SQL folder:
  
