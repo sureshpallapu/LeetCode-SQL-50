@@ -35,3 +35,11 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
 2. cd LeetCode-SQL-50/SQL-Solutions
    
 3. Run queries in MySQL / PostgreSQL.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/sureshpallapu/LeetCode-SQL-50/tree/master/1153-product-sales-analysis-i) |
+<!---LeetCode Topics End-->
