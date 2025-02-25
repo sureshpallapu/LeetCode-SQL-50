@@ -41,5 +41,6 @@ This repository contains solutions to the **LeetCode Top 50 SQL Problems** with 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/sureshpallapu/LeetCode-SQL-50/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/sureshpallapu/LeetCode-SQL-50/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
